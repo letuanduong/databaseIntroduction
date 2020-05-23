@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="519a49cf-d388-45e2-8b0f-4c771044cd56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="testIntelliji" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\OneDrive\CodeGym\Module3\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1c8821RNdU0C7TRQJc0qQVHYzMZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.helloWorld" />
+      <module name="testIntelliji" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.helloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="519a49cf-d388-45e2-8b0f-4c771044cd56" name="Default Changelist" comment="" />
+      <created>1589898648791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589898648791</updated>
+      <workItem from="1589898658777" duration="1773000" />
+      <workItem from="1589969194664" duration="952000" />
+      <workItem from="1589970203398" duration="1061000" />
+      <workItem from="1589985949888" duration="3109000" />
+      <workItem from="1590023177312" duration="2349000" />
+      <workItem from="1590025541007" duration="9803000" />
+      <workItem from="1590049900546" duration="415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="34" key="#helloWorld" timestamp="1589899187936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="34" key="#helloWorld/0.0.1366.728@0.0.1366.728" timestamp="1589899187936" />
+    <state x="506" y="228" width="354" height="319" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1590034030375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="506" y="228" width="354" height="319" key="DBNavigator.ConnectionAuthenticationDialog/0.0.1366.728@0.0.1366.728" timestamp="1590034030375" />
+    <state x="343" y="64" key="DBNavigator.ConnectionInfoDialog" timestamp="1590028401823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="64" key="DBNavigator.ConnectionInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1590028401823" />
+    <state x="263" y="79" key="DBNavigator.DatasetFilterDialog" timestamp="1590024848447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="79" key="DBNavigator.DatasetFilterDialog/0.0.1366.728@0.0.1366.728" timestamp="1590024848447" />
+    <state x="213" y="19" key="DBNavigator.ProjectSettingsDialog" timestamp="1590032807811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590032807811" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1590050315192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590050315192" />
+    <state x="505" y="263" key="Github.CreateGistDialog" timestamp="1590029482079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="263" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1590029482079" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1589989062592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589989062592" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1589989062591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589989062591" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1589989062591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589989062591" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1589989062591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589989062591" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1589901876629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589901876629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1589901876629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589901876629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1589901876629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589901876629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1589901876629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589901876629" />
+    <state x="312" y="2" key="SettingsEditor" timestamp="1590025786529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="312" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590025786529" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1589899228464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1589899228464" />
+    <state x="65" y="0" key="new project wizard" timestamp="1590050316615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590050316615" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1589970083428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589970083428" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589988591968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589988591968" />
+  </component>
+</project>
